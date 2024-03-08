@@ -42,7 +42,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter Regular"), url(../fonts/inter-regular-2.woff2) format("woff2");
+    src: local("Inter Regular"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-regular-2.woff2') format("woff2");
     font-weight: 400;
     font-style: normal;
     font-display: fallback
@@ -50,7 +50,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter ExtraLight"), url(../fonts/inter-extralight-2.woff2) format("woff2");
+    src: local("Inter ExtraLight"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-extralight-2.woff2') format("woff2");
     font-weight: 200;
     font-style: normal;
     font-display: fallback
@@ -58,7 +58,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter Bold"), url(../fonts/inter-bold-2.woff2) format("woff2");
+    src: local("Inter Bold"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-bold-2.woff2') format("woff2");
     font-weight: 700;
     font-style: normal;
     font-display: fallback
@@ -66,7 +66,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter Light"), url(../fonts/inter-light-2.woff2) format("woff2");
+    src: local("Inter Light"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-light-2.woff2') format("woff2");
     font-weight: 300;
     font-style: normal;
     font-display: fallback
@@ -74,7 +74,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter Medium"), url(../fonts/inter-medium-2.woff2) format("woff2");
+    src: local("Inter Medium"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-medium-2.woff2') format("woff2");
     font-weight: 500;
     font-style: normal;
     font-display: fallback
@@ -82,7 +82,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter Thin"), url(../fonts/inter-thin-2.woff2) format("woff2");
+    src: local("Inter Thin"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-thin-2.woff2') format("woff2");
     font-weight: 100;
     font-style: normal;
     font-display: fallback
@@ -90,7 +90,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter SemiBold"), url(../fonts/inter-semibold-2.woff2) format("woff2");
+    src: local("Inter SemiBold"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-semibold-2.woff2') format("woff2");
     font-weight: 600;
     font-style: normal;
     font-display: fallback
@@ -98,7 +98,7 @@
 
 @font-face {
     font-family: Inter;
-    src: local("Inter Black"), url(../fonts/inter-black-2.woff2) format("woff2");
+    src: local("Inter Black"), url('https://raw.githubusercontent.com/strokewbe/twcss/main/inter-black-2.woff2') format("woff2");
     font-weight: 900;
     font-style: normal;
     font-display: fallback
